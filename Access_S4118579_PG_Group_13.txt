@@ -1,0 +1,30 @@
+COSC2671 – Social Media and Network Analysis
+Assignment 2 – Group Project
+
+Group Number:
+Postgraduate Group 13
+
+Group Members:
+- Navya Vani Yedla (S4118579)
+- Rohan Kurimilla (S4137849)
+- Punith Peram Varaprasad (S4204200)
+
+Repository Access Details
+--------------------------------------------------
+
+Repository/Drive Link: [GitHub]
+
+https://github.com/S4118579/SMNA-Assignment2-Group13.git
+
+Access Information:
+The repository has been shared with the lecturer and teaching team for assessment purposes.
+
+Repository Contents:
+- Final Jupyter Notebook (.ipynb)
+- Python Script (.py)
+- Gephi Network Files (.gexf)
+- Supporting Data Samples
+- Generated Figures and Outputs
+- README Instructions
+- Team Management and Project Files
+
