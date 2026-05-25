@@ -12,8 +12,8 @@ Postgraduate Group 13
 
 Group Members:
 - Navya Vani Yedla (S4118579)
-- Rohan Kurimilla
-- Punith Peram Varaprasad
+- Rohan Kurimilla (S4137849)
+- Punith Peram Varaprasad (S4204200)
 
 --------------------------------------------------
 
@@ -72,7 +72,7 @@ Main Libraries Used
 How to Run the Project
 
 1. Open the Jupyter Notebook:
-   TamilNadu_Election_Analysis.ipynb
+   S4118579_PG_group_13.ipynb
 
 2. Install required Python libraries.
 
