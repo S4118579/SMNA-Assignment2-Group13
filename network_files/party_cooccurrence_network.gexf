@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-22">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="CPM" label="CPM" />
+      <node id="VCK" label="VCK" />
+      <node id="CPI" label="CPI" />
+      <node id="DMK" label="DMK" />
+      <node id="TVK" label="TVK" />
+      <node id="NTK" label="NTK" />
+      <node id="BJP" label="BJP" />
+      <node id="AIADMK" label="AIADMK" />
+      <node id="AMMK" label="AMMK" />
+      <node id="PMK" label="PMK" />
+      <node id="INC" label="INC" />
+      <node id="DMDK" label="DMDK" />
+    </nodes>
+    <edges>
+      <edge source="CPM" target="VCK" id="0" weight="5" />
+      <edge source="CPM" target="CPI" id="1" weight="5" />
+      <edge source="CPM" target="BJP" id="2" weight="1" />
+      <edge source="CPM" target="INC" id="3" weight="1" />
+      <edge source="CPM" target="TVK" id="4" weight="1" />
+      <edge source="VCK" target="CPI" id="5" weight="3" />
+      <edge source="VCK" target="DMK" id="6" weight="9" />
+      <edge source="VCK" target="AIADMK" id="7" weight="1" />
+      <edge source="VCK" target="TVK" id="8" weight="6" />
+      <edge source="VCK" target="PMK" id="9" weight="5" />
+      <edge source="VCK" target="BJP" id="10" weight="2" />
+      <edge source="VCK" target="NTK" id="11" weight="2" />
+      <edge source="CPI" target="TVK" id="12" weight="1" />
+      <edge source="DMK" target="TVK" id="13" weight="204" />
+      <edge source="DMK" target="NTK" id="14" weight="46" />
+      <edge source="DMK" target="BJP" id="15" weight="113" />
+      <edge source="DMK" target="AIADMK" id="16" weight="41" />
+      <edge source="DMK" target="DMDK" id="17" weight="7" />
+      <edge source="DMK" target="PMK" id="18" weight="7" />
+      <edge source="DMK" target="AMMK" id="19" weight="1" />
+      <edge source="TVK" target="NTK" id="20" weight="53" />
+      <edge source="TVK" target="AIADMK" id="21" weight="25" />
+      <edge source="TVK" target="BJP" id="22" weight="51" />
+      <edge source="TVK" target="INC" id="23" weight="1" />
+      <edge source="TVK" target="AMMK" id="24" weight="2" />
+      <edge source="TVK" target="DMDK" id="25" weight="4" />
+      <edge source="TVK" target="PMK" id="26" weight="7" />
+      <edge source="NTK" target="BJP" id="27" weight="14" />
+      <edge source="NTK" target="AIADMK" id="28" weight="4" />
+      <edge source="NTK" target="AMMK" id="29" weight="1" />
+      <edge source="NTK" target="PMK" id="30" weight="3" />
+      <edge source="NTK" target="DMDK" id="31" weight="3" />
+      <edge source="BJP" target="AMMK" id="32" weight="2" />
+      <edge source="BJP" target="PMK" id="33" weight="9" />
+      <edge source="BJP" target="AIADMK" id="34" weight="25" />
+      <edge source="BJP" target="INC" id="35" weight="1" />
+      <edge source="AIADMK" target="DMDK" id="36" weight="1" />
+      <edge source="AMMK" target="PMK" id="37" weight="2" />
+    </edges>
+  </graph>
+</gexf>

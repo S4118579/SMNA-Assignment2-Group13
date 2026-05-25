@@ -1,0 +1,556 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-22">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="User_@ArvinRaj-c1d" label="User_@ArvinRaj-c1d" />
+      <node id="TVK" label="TVK" />
+      <node id="User_@KameshwarPrakash" label="User_@KameshwarPrakash" />
+      <node id="User_@nkr-os9dd" label="User_@nkr-os9dd" />
+      <node id="NTK" label="NTK" />
+      <node id="BJP" label="BJP" />
+      <node id="User_@adyarrajj285" label="User_@adyarrajj285" />
+      <node id="DMK" label="DMK" />
+      <node id="User_@AnsariMohamed-f8d" label="User_@AnsariMohamed-f8d" />
+      <node id="User_@Ahambrahmasi" label="User_@Ahambrahmasi" />
+      <node id="User_@JaiBarath108" label="User_@JaiBarath108" />
+      <node id="AMMK" label="AMMK" />
+      <node id="PMK" label="PMK" />
+      <node id="User_@jack32322" label="User_@jack32322" />
+      <node id="User_@vengeance710x" label="User_@vengeance710x" />
+      <node id="User_@tharajonita8676" label="User_@tharajonita8676" />
+      <node id="User_@SenthilKumar-pb3nu" label="User_@SenthilKumar-pb3nu" />
+      <node id="User_@ramsekar56" label="User_@ramsekar56" />
+      <node id="AIADMK" label="AIADMK" />
+      <node id="User_@vigneshsingh4412" label="User_@vigneshsingh4412" />
+      <node id="User_@vishnudevdevan8701" label="User_@vishnudevdevan8701" />
+      <node id="User_@Jump_jilani" label="User_@Jump_jilani" />
+      <node id="User_@SDINESHPRASAD" label="User_@SDINESHPRASAD" />
+      <node id="User_@krishk8105" label="User_@krishk8105" />
+      <node id="User_@georgethomas8464" label="User_@georgethomas8464" />
+      <node id="User_@PrabhuK12345" label="User_@PrabhuK12345" />
+      <node id="INC" label="INC" />
+      <node id="User_@rajkumaripaul710" label="User_@rajkumaripaul710" />
+      <node id="User_@sunderrajen9505" label="User_@sunderrajen9505" />
+      <node id="User_@DeepakK-qg7ms" label="User_@DeepakK-qg7ms" />
+      <node id="User_@sharathsb423" label="User_@sharathsb423" />
+      <node id="User_@sais7835" label="User_@sais7835" />
+      <node id="User_@babualagar7838" label="User_@babualagar7838" />
+      <node id="CPM" label="CPM" />
+      <node id="VCK" label="VCK" />
+      <node id="CPI" label="CPI" />
+      <node id="User_@samjebasheela1351" label="User_@samjebasheela1351" />
+      <node id="User_@T.Ponmudi-i4v" label="User_@T.Ponmudi-i4v" />
+      <node id="User_@Bharat-Growth" label="User_@Bharat-Growth" />
+      <node id="User_@anandgupta1989" label="User_@anandgupta1989" />
+      <node id="User_@masterdisckox6282" label="User_@masterdisckox6282" />
+      <node id="User_@KumbaJacks" label="User_@KumbaJacks" />
+      <node id="User_@Motor_ssr" label="User_@Motor_ssr" />
+      <node id="User_@sainagarajanmm3083" label="User_@sainagarajanmm3083" />
+      <node id="User_@AnthonyRaj-e5v" label="User_@AnthonyRaj-e5v" />
+      <node id="User_@pappudai" label="User_@pappudai" />
+      <node id="User_@shankaralfassa" label="User_@shankaralfassa" />
+      <node id="User_@JoGo888" label="User_@JoGo888" />
+      <node id="User_@zahir2907" label="User_@zahir2907" />
+      <node id="User_@VasishtNarayananOfficial" label="User_@VasishtNarayananOfficial" />
+      <node id="User_@S.NAVEENKUMAR-gl5mw" label="User_@S.NAVEENKUMAR-gl5mw" />
+      <node id="User_@theinnervoice1996" label="User_@theinnervoice1996" />
+      <node id="User_@venkatramnan5727" label="User_@venkatramnan5727" />
+      <node id="User_@NARUTO-sy9hy" label="User_@NARUTO-sy9hy" />
+      <node id="User_@SayyadIbrahim-y5s" label="User_@SayyadIbrahim-y5s" />
+      <node id="User_@georgejacob4327" label="User_@georgejacob4327" />
+      <node id="User_@sunlotusexports5515" label="User_@sunlotusexports5515" />
+      <node id="User_@TheYoga1212" label="User_@TheYoga1212" />
+      <node id="User_@pkdudeutube" label="User_@pkdudeutube" />
+      <node id="User_@PanneerSelvam-eh6dc" label="User_@PanneerSelvam-eh6dc" />
+      <node id="User_@StarfishAcademy-z6o" label="User_@StarfishAcademy-z6o" />
+      <node id="User_@NagarajanKris" label="User_@NagarajanKris" />
+      <node id="User_@chandravadanankannappan2149" label="User_@chandravadanankannappan2149" />
+      <node id="User_@RajRaj-eu6uu" label="User_@RajRaj-eu6uu" />
+      <node id="User_@visuvalingamkaruppiah8970" label="User_@visuvalingamkaruppiah8970" />
+      <node id="User_@svfilms8052" label="User_@svfilms8052" />
+      <node id="User_@zyx_cba123" label="User_@zyx_cba123" />
+      <node id="User_@kamalsiva3090" label="User_@kamalsiva3090" />
+      <node id="User_@analyca2011" label="User_@analyca2011" />
+      <node id="User_@bamux7" label="User_@bamux7" />
+      <node id="User_@growasperyourview" label="User_@growasperyourview" />
+      <node id="User_@Rohith_rk20" label="User_@Rohith_rk20" />
+      <node id="User_@cinipolitics360" label="User_@cinipolitics360" />
+      <node id="User_@Vijay-e5q5j" label="User_@Vijay-e5q5j" />
+      <node id="User_@rajhselvapathi6310" label="User_@rajhselvapathi6310" />
+      <node id="User_@RecycleYourLife-du5xu" label="User_@RecycleYourLife-du5xu" />
+      <node id="User_@jayasangarnarayanan8743" label="User_@jayasangarnarayanan8743" />
+      <node id="User_@rapaelarockiaraj8681" label="User_@rapaelarockiaraj8681" />
+      <node id="User_@darshanselvam554" label="User_@darshanselvam554" />
+      <node id="User_@Karthick-bq3xb" label="User_@Karthick-bq3xb" />
+      <node id="User_@SayTruthOnly-3" label="User_@SayTruthOnly-3" />
+      <node id="User_@Rock-ow2tl" label="User_@Rock-ow2tl" />
+      <node id="User_@suganpal1142" label="User_@suganpal1142" />
+      <node id="User_@lakshmanankrish1017" label="User_@lakshmanankrish1017" />
+      <node id="User_@senthamaraikannan1771" label="User_@senthamaraikannan1771" />
+      <node id="User_@SakthivelEzhumalai" label="User_@SakthivelEzhumalai" />
+      <node id="User_@sunderk71" label="User_@sunderk71" />
+      <node id="User_@bharathibalu1963" label="User_@bharathibalu1963" />
+      <node id="User_@premarajendharan5157" label="User_@premarajendharan5157" />
+      <node id="User_@ashvinikumarv3839" label="User_@ashvinikumarv3839" />
+      <node id="User_@mook8755" label="User_@mook8755" />
+      <node id="User_@JameelAhmed-m5b" label="User_@JameelAhmed-m5b" />
+      <node id="User_@VI-G1G" label="User_@VI-G1G" />
+      <node id="User_@kamalravindradas2702" label="User_@kamalravindradas2702" />
+      <node id="User_@venkataramananrengan1913" label="User_@venkataramananrengan1913" />
+      <node id="User_@naaganthinai4059" label="User_@naaganthinai4059" />
+      <node id="User_@radhakrishnan9222" label="User_@radhakrishnan9222" />
+      <node id="User_@Hariharan.vigraman" label="User_@Hariharan.vigraman" />
+      <node id="User_@bestvalueshanu" label="User_@bestvalueshanu" />
+      <node id="User_@madhavk79" label="User_@madhavk79" />
+      <node id="User_@manojkumarpalani8680" label="User_@manojkumarpalani8680" />
+      <node id="User_@SKumar-kp7fq" label="User_@SKumar-kp7fq" />
+      <node id="User_@saran.seenivasan" label="User_@saran.seenivasan" />
+      <node id="User_@ramalingareddypothapu2011" label="User_@ramalingareddypothapu2011" />
+      <node id="User_@haranathg532" label="User_@haranathg532" />
+      <node id="User_@SureshRajammal" label="User_@SureshRajammal" />
+      <node id="User_@kailashkataria4192" label="User_@kailashkataria4192" />
+      <node id="User_@a_vijaya_baskararumugam9759" label="User_@a_vijaya_baskararumugam9759" />
+      <node id="User_@VijayrenuVijayrenu-c3v" label="User_@VijayrenuVijayrenu-c3v" />
+      <node id="User_@RamkumarS-p9i3k" label="User_@RamkumarS-p9i3k" />
+      <node id="User_@Devjade1103" label="User_@Devjade1103" />
+      <node id="User_@kummaragurrub9131" label="User_@kummaragurrub9131" />
+      <node id="User_@niranjanaravikumar5080" label="User_@niranjanaravikumar5080" />
+      <node id="User_@sridharsundar100" label="User_@sridharsundar100" />
+      <node id="User_@RajathiKumari" label="User_@RajathiKumari" />
+      <node id="User_@kumar67117" label="User_@kumar67117" />
+      <node id="User_@thavamt1776" label="User_@thavamt1776" />
+      <node id="User_@kumarsubramanian6281" label="User_@kumarsubramanian6281" />
+      <node id="User_@aaronshan8956" label="User_@aaronshan8956" />
+      <node id="User_@gabrielemmanuel36" label="User_@gabrielemmanuel36" />
+      <node id="User_@தமிழ்-ல4ஞ" label="User_@தமிழ்-ல4ஞ" />
+      <node id="User_@paradesiaralan" label="User_@paradesiaralan" />
+      <node id="DMDK" label="DMDK" />
+      <node id="User_@Ganesan4510" label="User_@Ganesan4510" />
+      <node id="User_@salamAM26" label="User_@salamAM26" />
+      <node id="User_@shivnaryan9620" label="User_@shivnaryan9620" />
+      <node id="User_@omerfarook2440" label="User_@omerfarook2440" />
+      <node id="User_@happyfarmer6930" label="User_@happyfarmer6930" />
+      <node id="User_@satheeshkumarbalakrishnan4289" label="User_@satheeshkumarbalakrishnan4289" />
+      <node id="User_@radhakrishnan-pg2xh" label="User_@radhakrishnan-pg2xh" />
+      <node id="User_@ArunKumar-u1u2p" label="User_@ArunKumar-u1u2p" />
+      <node id="User_@sami44566" label="User_@sami44566" />
+      <node id="User_@Tanya_S2013" label="User_@Tanya_S2013" />
+      <node id="User_@தமிழினிTN25" label="User_@தமிழினிTN25" />
+      <node id="User_@AustinGiltus" label="User_@AustinGiltus" />
+      <node id="User_@jothimsw" label="User_@jothimsw" />
+      <node id="User_@Dr.JYOTHISURIYA." label="User_@Dr.JYOTHISURIYA." />
+      <node id="User_@yuvarajsrinivasan6870" label="User_@yuvarajsrinivasan6870" />
+      <node id="User_@jalaramaiah-nx7it" label="User_@jalaramaiah-nx7it" />
+      <node id="User_@prabuananthr3896" label="User_@prabuananthr3896" />
+      <node id="User_@ravichandransubramaniam6169" label="User_@ravichandransubramaniam6169" />
+      <node id="User_@supermarinespitfire330" label="User_@supermarinespitfire330" />
+      <node id="User_@subbayyaPillai-v6w" label="User_@subbayyaPillai-v6w" />
+      <node id="User_@krishnaprasad4629" label="User_@krishnaprasad4629" />
+      <node id="User_@PrasannaKumar-cw5be" label="User_@PrasannaKumar-cw5be" />
+      <node id="User_@Ponniah07" label="User_@Ponniah07" />
+      <node id="User_@anbalaganr.2168" label="User_@anbalaganr.2168" />
+      <node id="User_@sundheepdevarajan1056" label="User_@sundheepdevarajan1056" />
+      <node id="User_@coffeebreak1918" label="User_@coffeebreak1918" />
+      <node id="User_@TKVLOGS-fr8zl" label="User_@TKVLOGS-fr8zl" />
+      <node id="User_@mohank.m2424" label="User_@mohank.m2424" />
+      <node id="User_@elavarasik6290" label="User_@elavarasik6290" />
+      <node id="User_@Zogo-l9e" label="User_@Zogo-l9e" />
+      <node id="User_@sanjaygadhalay1523" label="User_@sanjaygadhalay1523" />
+      <node id="User_@agpalani5038" label="User_@agpalani5038" />
+      <node id="User_@hemalathagunasekaran1034" label="User_@hemalathagunasekaran1034" />
+      <node id="User_@mks2942" label="User_@mks2942" />
+      <node id="User_@Multivercell" label="User_@Multivercell" />
+      <node id="User_@rajangeorge4541" label="User_@rajangeorge4541" />
+      <node id="User_@Priyanka4002" label="User_@Priyanka4002" />
+      <node id="User_@khoushiksridar1900" label="User_@khoushiksridar1900" />
+      <node id="User_@AKDY23" label="User_@AKDY23" />
+    </nodes>
+    <edges>
+      <edge source="User_@ArvinRaj-c1d" target="TVK" id="0" weight="3" />
+      <edge source="User_@ArvinRaj-c1d" target="DMK" id="1" weight="3" />
+      <edge source="User_@ArvinRaj-c1d" target="NTK" id="2" weight="2" />
+      <edge source="TVK" target="User_@KameshwarPrakash" id="3" weight="1" />
+      <edge source="TVK" target="User_@nkr-os9dd" id="4" weight="1" />
+      <edge source="TVK" target="User_@AnsariMohamed-f8d" id="5" weight="3" />
+      <edge source="TVK" target="User_@jack32322" id="6" weight="2" />
+      <edge source="TVK" target="User_@vengeance710x" id="7" weight="2" />
+      <edge source="TVK" target="User_@tharajonita8676" id="8" weight="3" />
+      <edge source="TVK" target="User_@ramsekar56" id="9" weight="1" />
+      <edge source="TVK" target="User_@SenthilKumar-pb3nu" id="10" weight="1" />
+      <edge source="TVK" target="User_@vigneshsingh4412" id="11" weight="4" />
+      <edge source="TVK" target="User_@Jump_jilani" id="12" weight="2" />
+      <edge source="TVK" target="User_@SDINESHPRASAD" id="13" weight="4" />
+      <edge source="TVK" target="User_@georgethomas8464" id="14" weight="2" />
+      <edge source="TVK" target="User_@PrabhuK12345" id="15" weight="1" />
+      <edge source="TVK" target="User_@rajkumaripaul710" id="16" weight="5" />
+      <edge source="TVK" target="User_@DeepakK-qg7ms" id="17" weight="2" />
+      <edge source="TVK" target="User_@sharathsb423" id="18" weight="1" />
+      <edge source="TVK" target="User_@samjebasheela1351" id="19" weight="1" />
+      <edge source="TVK" target="User_@anandgupta1989" id="20" weight="1" />
+      <edge source="TVK" target="User_@masterdisckox6282" id="21" weight="2" />
+      <edge source="TVK" target="User_@Motor_ssr" id="22" weight="1" />
+      <edge source="TVK" target="User_@sainagarajanmm3083" id="23" weight="1" />
+      <edge source="TVK" target="User_@AnthonyRaj-e5v" id="24" weight="2" />
+      <edge source="TVK" target="User_@pappudai" id="25" weight="1" />
+      <edge source="TVK" target="User_@shankaralfassa" id="26" weight="1" />
+      <edge source="TVK" target="User_@zahir2907" id="27" weight="2" />
+      <edge source="TVK" target="User_@VasishtNarayananOfficial" id="28" weight="6" />
+      <edge source="TVK" target="User_@S.NAVEENKUMAR-gl5mw" id="29" weight="3" />
+      <edge source="TVK" target="User_@Bharat-Growth" id="30" weight="1" />
+      <edge source="TVK" target="User_@sunderrajen9505" id="31" weight="3" />
+      <edge source="TVK" target="User_@theinnervoice1996" id="32" weight="1" />
+      <edge source="TVK" target="User_@venkatramnan5727" id="33" weight="3" />
+      <edge source="TVK" target="User_@NARUTO-sy9hy" id="34" weight="1" />
+      <edge source="TVK" target="User_@SayyadIbrahim-y5s" id="35" weight="1" />
+      <edge source="TVK" target="User_@sunlotusexports5515" id="36" weight="1" />
+      <edge source="TVK" target="User_@georgejacob4327" id="37" weight="2" />
+      <edge source="TVK" target="User_@PanneerSelvam-eh6dc" id="38" weight="4" />
+      <edge source="TVK" target="User_@NagarajanKris" id="39" weight="1" />
+      <edge source="TVK" target="User_@JoGo888" id="40" weight="1" />
+      <edge source="TVK" target="User_@chandravadanankannappan2149" id="41" weight="1" />
+      <edge source="TVK" target="User_@svfilms8052" id="42" weight="1" />
+      <edge source="TVK" target="User_@zyx_cba123" id="43" weight="2" />
+      <edge source="TVK" target="User_@analyca2011" id="44" weight="2" />
+      <edge source="TVK" target="User_@Rohith_rk20" id="45" weight="2" />
+      <edge source="TVK" target="User_@cinipolitics360" id="46" weight="1" />
+      <edge source="TVK" target="User_@RecycleYourLife-du5xu" id="47" weight="1" />
+      <edge source="TVK" target="User_@jayasangarnarayanan8743" id="48" weight="1" />
+      <edge source="TVK" target="User_@rapaelarockiaraj8681" id="49" weight="2" />
+      <edge source="TVK" target="User_@KumbaJacks" id="50" weight="2" />
+      <edge source="TVK" target="User_@darshanselvam554" id="51" weight="1" />
+      <edge source="TVK" target="User_@Karthick-bq3xb" id="52" weight="1" />
+      <edge source="TVK" target="User_@Rock-ow2tl" id="53" weight="1" />
+      <edge source="TVK" target="User_@SakthivelEzhumalai" id="54" weight="4" />
+      <edge source="TVK" target="User_@kamalsiva3090" id="55" weight="2" />
+      <edge source="TVK" target="User_@sunderk71" id="56" weight="1" />
+      <edge source="TVK" target="User_@ashvinikumarv3839" id="57" weight="1" />
+      <edge source="TVK" target="User_@mook8755" id="58" weight="1" />
+      <edge source="TVK" target="User_@VI-G1G" id="59" weight="1" />
+      <edge source="TVK" target="User_@kamalravindradas2702" id="60" weight="1" />
+      <edge source="TVK" target="User_@Hariharan.vigraman" id="61" weight="2" />
+      <edge source="TVK" target="User_@madhavk79" id="62" weight="3" />
+      <edge source="TVK" target="User_@bamux7" id="63" weight="1" />
+      <edge source="TVK" target="User_@saran.seenivasan" id="64" weight="1" />
+      <edge source="TVK" target="User_@ramalingareddypothapu2011" id="65" weight="4" />
+      <edge source="TVK" target="User_@SureshRajammal" id="66" weight="1" />
+      <edge source="TVK" target="User_@kailashkataria4192" id="67" weight="1" />
+      <edge source="TVK" target="User_@a_vijaya_baskararumugam9759" id="68" weight="4" />
+      <edge source="TVK" target="User_@VijayrenuVijayrenu-c3v" id="69" weight="3" />
+      <edge source="TVK" target="User_@RamkumarS-p9i3k" id="70" weight="1" />
+      <edge source="TVK" target="User_@kummaragurrub9131" id="71" weight="1" />
+      <edge source="TVK" target="User_@kumarsubramanian6281" id="72" weight="1" />
+      <edge source="TVK" target="User_@happyfarmer6930" id="73" weight="1" />
+      <edge source="TVK" target="User_@satheeshkumarbalakrishnan4289" id="74" weight="1" />
+      <edge source="TVK" target="User_@ArunKumar-u1u2p" id="75" weight="4" />
+      <edge source="TVK" target="User_@kumar67117" id="76" weight="1" />
+      <edge source="TVK" target="User_@sami44566" id="77" weight="3" />
+      <edge source="TVK" target="User_@Tanya_S2013" id="78" weight="3" />
+      <edge source="TVK" target="User_@AustinGiltus" id="79" weight="1" />
+      <edge source="TVK" target="User_@Dr.JYOTHISURIYA." id="80" weight="3" />
+      <edge source="TVK" target="User_@jothimsw" id="81" weight="3" />
+      <edge source="TVK" target="User_@lakshmanankrish1017" id="82" weight="2" />
+      <edge source="TVK" target="User_@prabuananthr3896" id="83" weight="1" />
+      <edge source="TVK" target="User_@ravichandransubramaniam6169" id="84" weight="1" />
+      <edge source="TVK" target="User_@subbayyaPillai-v6w" id="85" weight="1" />
+      <edge source="TVK" target="User_@PrasannaKumar-cw5be" id="86" weight="1" />
+      <edge source="TVK" target="User_@bestvalueshanu" id="87" weight="1" />
+      <edge source="TVK" target="User_@supermarinespitfire330" id="88" weight="1" />
+      <edge source="TVK" target="User_@Ponniah07" id="89" weight="1" />
+      <edge source="TVK" target="User_@anbalaganr.2168" id="90" weight="1" />
+      <edge source="TVK" target="User_@omerfarook2440" id="91" weight="1" />
+      <edge source="TVK" target="User_@sundheepdevarajan1056" id="92" weight="1" />
+      <edge source="TVK" target="User_@coffeebreak1918" id="93" weight="2" />
+      <edge source="TVK" target="User_@TKVLOGS-fr8zl" id="94" weight="1" />
+      <edge source="TVK" target="User_@mohank.m2424" id="95" weight="2" />
+      <edge source="TVK" target="User_@elavarasik6290" id="96" weight="1" />
+      <edge source="TVK" target="User_@Zogo-l9e" id="97" weight="1" />
+      <edge source="TVK" target="User_@sanjaygadhalay1523" id="98" weight="1" />
+      <edge source="TVK" target="User_@agpalani5038" id="99" weight="1" />
+      <edge source="TVK" target="User_@hemalathagunasekaran1034" id="100" weight="1" />
+      <edge source="TVK" target="User_@Multivercell" id="101" weight="1" />
+      <edge source="TVK" target="User_@SayTruthOnly-3" id="102" weight="1" />
+      <edge source="TVK" target="User_@bharathibalu1963" id="103" weight="1" />
+      <edge source="User_@KameshwarPrakash" target="BJP" id="104" weight="1" />
+      <edge source="User_@KameshwarPrakash" target="DMK" id="105" weight="3" />
+      <edge source="User_@nkr-os9dd" target="NTK" id="106" weight="1" />
+      <edge source="User_@nkr-os9dd" target="BJP" id="107" weight="1" />
+      <edge source="NTK" target="User_@Ahambrahmasi" id="108" weight="4" />
+      <edge source="NTK" target="User_@jack32322" id="109" weight="2" />
+      <edge source="NTK" target="User_@vengeance710x" id="110" weight="3" />
+      <edge source="NTK" target="User_@samjebasheela1351" id="111" weight="1" />
+      <edge source="NTK" target="User_@Motor_ssr" id="112" weight="1" />
+      <edge source="NTK" target="User_@sainagarajanmm3083" id="113" weight="1" />
+      <edge source="NTK" target="User_@sunlotusexports5515" id="114" weight="1" />
+      <edge source="NTK" target="User_@PanneerSelvam-eh6dc" id="115" weight="3" />
+      <edge source="NTK" target="User_@RajRaj-eu6uu" id="116" weight="3" />
+      <edge source="NTK" target="User_@svfilms8052" id="117" weight="44" />
+      <edge source="NTK" target="User_@growasperyourview" id="118" weight="4" />
+      <edge source="NTK" target="User_@cinipolitics360" id="119" weight="2" />
+      <edge source="NTK" target="User_@jayasangarnarayanan8743" id="120" weight="1" />
+      <edge source="NTK" target="User_@suganpal1142" id="121" weight="1" />
+      <edge source="NTK" target="User_@sunderk71" id="122" weight="1" />
+      <edge source="NTK" target="User_@bharathibalu1963" id="123" weight="2" />
+      <edge source="NTK" target="User_@mook8755" id="124" weight="1" />
+      <edge source="NTK" target="User_@Rohith_rk20" id="125" weight="1" />
+      <edge source="NTK" target="User_@kamalravindradas2702" id="126" weight="1" />
+      <edge source="NTK" target="User_@naaganthinai4059" id="127" weight="3" />
+      <edge source="NTK" target="User_@venkataramananrengan1913" id="128" weight="1" />
+      <edge source="NTK" target="User_@kamalsiva3090" id="129" weight="1" />
+      <edge source="NTK" target="User_@manojkumarpalani8680" id="130" weight="1" />
+      <edge source="NTK" target="User_@saran.seenivasan" id="131" weight="1" />
+      <edge source="NTK" target="User_@SureshRajammal" id="132" weight="1" />
+      <edge source="NTK" target="User_@தமிழ்-ல4ஞ" id="133" weight="2" />
+      <edge source="NTK" target="User_@paradesiaralan" id="134" weight="4" />
+      <edge source="NTK" target="User_@kumarsubramanian6281" id="135" weight="1" />
+      <edge source="NTK" target="User_@தமிழினிTN25" id="136" weight="6" />
+      <edge source="NTK" target="User_@yuvarajsrinivasan6870" id="137" weight="2" />
+      <edge source="NTK" target="User_@lakshmanankrish1017" id="138" weight="1" />
+      <edge source="NTK" target="User_@subbayyaPillai-v6w" id="139" weight="1" />
+      <edge source="NTK" target="User_@sundheepdevarajan1056" id="140" weight="1" />
+      <edge source="NTK" target="User_@TKVLOGS-fr8zl" id="141" weight="1" />
+      <edge source="NTK" target="User_@elavarasik6290" id="142" weight="1" />
+      <edge source="NTK" target="User_@SayTruthOnly-3" id="143" weight="2" />
+      <edge source="NTK" target="User_@Multivercell" id="144" weight="1" />
+      <edge source="NTK" target="User_@Zogo-l9e" id="145" weight="2" />
+      <edge source="NTK" target="User_@Priyanka4002" id="146" weight="1" />
+      <edge source="NTK" target="User_@khoushiksridar1900" id="147" weight="3" />
+      <edge source="NTK" target="User_@AKDY23" id="148" weight="1" />
+      <edge source="BJP" target="User_@JaiBarath108" id="149" weight="2" />
+      <edge source="BJP" target="User_@SenthilKumar-pb3nu" id="150" weight="1" />
+      <edge source="BJP" target="User_@ramsekar56" id="151" weight="1" />
+      <edge source="BJP" target="User_@PrabhuK12345" id="152" weight="1" />
+      <edge source="BJP" target="User_@DeepakK-qg7ms" id="153" weight="1" />
+      <edge source="BJP" target="User_@sharathsb423" id="154" weight="1" />
+      <edge source="BJP" target="User_@sais7835" id="155" weight="2" />
+      <edge source="BJP" target="User_@vishnudevdevan8701" id="156" weight="1" />
+      <edge source="BJP" target="User_@Motor_ssr" id="157" weight="1" />
+      <edge source="BJP" target="User_@sainagarajanmm3083" id="158" weight="1" />
+      <edge source="BJP" target="User_@shankaralfassa" id="159" weight="1" />
+      <edge source="BJP" target="User_@JoGo888" id="160" weight="2" />
+      <edge source="BJP" target="User_@adyarrajj285" id="161" weight="2" />
+      <edge source="BJP" target="User_@georgejacob4327" id="162" weight="1" />
+      <edge source="BJP" target="User_@TheYoga1212" id="163" weight="1" />
+      <edge source="BJP" target="User_@rajhselvapathi6310" id="164" weight="2" />
+      <edge source="BJP" target="User_@RecycleYourLife-du5xu" id="165" weight="1" />
+      <edge source="BJP" target="User_@jayasangarnarayanan8743" id="166" weight="1" />
+      <edge source="BJP" target="User_@rapaelarockiaraj8681" id="167" weight="1" />
+      <edge source="BJP" target="User_@darshanselvam554" id="168" weight="1" />
+      <edge source="BJP" target="User_@Karthick-bq3xb" id="169" weight="1" />
+      <edge source="BJP" target="User_@SayTruthOnly-3" id="170" weight="1" />
+      <edge source="BJP" target="User_@Rock-ow2tl" id="171" weight="1" />
+      <edge source="BJP" target="User_@lakshmanankrish1017" id="172" weight="1" />
+      <edge source="BJP" target="User_@sunderk71" id="173" weight="1" />
+      <edge source="BJP" target="User_@bharathibalu1963" id="174" weight="1" />
+      <edge source="BJP" target="User_@VI-G1G" id="175" weight="1" />
+      <edge source="BJP" target="User_@Hariharan.vigraman" id="176" weight="1" />
+      <edge source="BJP" target="User_@bestvalueshanu" id="177" weight="1" />
+      <edge source="BJP" target="User_@madhavk79" id="178" weight="1" />
+      <edge source="BJP" target="User_@SKumar-kp7fq" id="179" weight="3" />
+      <edge source="BJP" target="User_@haranathg532" id="180" weight="3" />
+      <edge source="BJP" target="User_@RamkumarS-p9i3k" id="181" weight="3" />
+      <edge source="BJP" target="User_@kummaragurrub9131" id="182" weight="1" />
+      <edge source="BJP" target="User_@niranjanaravikumar5080" id="183" weight="3" />
+      <edge source="BJP" target="User_@sridharsundar100" id="184" weight="1" />
+      <edge source="BJP" target="User_@RajathiKumari" id="185" weight="3" />
+      <edge source="BJP" target="User_@thavamt1776" id="186" weight="3" />
+      <edge source="BJP" target="User_@kumarsubramanian6281" id="187" weight="1" />
+      <edge source="BJP" target="User_@gabrielemmanuel36" id="188" weight="1" />
+      <edge source="BJP" target="User_@aaronshan8956" id="189" weight="1" />
+      <edge source="BJP" target="User_@தமிழ்-ல4ஞ" id="190" weight="1" />
+      <edge source="BJP" target="User_@KumbaJacks" id="191" weight="2" />
+      <edge source="BJP" target="User_@salamAM26" id="192" weight="3" />
+      <edge source="BJP" target="User_@shivnaryan9620" id="193" weight="1" />
+      <edge source="BJP" target="User_@omerfarook2440" id="194" weight="2" />
+      <edge source="BJP" target="User_@happyfarmer6930" id="195" weight="1" />
+      <edge source="BJP" target="User_@satheeshkumarbalakrishnan4289" id="196" weight="3" />
+      <edge source="BJP" target="User_@radhakrishnan-pg2xh" id="197" weight="1" />
+      <edge source="BJP" target="User_@SakthivelEzhumalai" id="198" weight="1" />
+      <edge source="BJP" target="User_@AnthonyRaj-e5v" id="199" weight="1" />
+      <edge source="BJP" target="User_@StarfishAcademy-z6o" id="200" weight="1" />
+      <edge source="BJP" target="User_@pkdudeutube" id="201" weight="1" />
+      <edge source="BJP" target="User_@kumar67117" id="202" weight="1" />
+      <edge source="BJP" target="User_@AustinGiltus" id="203" weight="1" />
+      <edge source="BJP" target="User_@jalaramaiah-nx7it" id="204" weight="3" />
+      <edge source="BJP" target="User_@prabuananthr3896" id="205" weight="1" />
+      <edge source="BJP" target="User_@ravichandransubramaniam6169" id="206" weight="1" />
+      <edge source="BJP" target="User_@krishnaprasad4629" id="207" weight="1" />
+      <edge source="BJP" target="User_@subbayyaPillai-v6w" id="208" weight="1" />
+      <edge source="BJP" target="User_@PrasannaKumar-cw5be" id="209" weight="1" />
+      <edge source="BJP" target="User_@sundheepdevarajan1056" id="210" weight="1" />
+      <edge source="BJP" target="User_@sanjaygadhalay1523" id="211" weight="1" />
+      <edge source="BJP" target="User_@rajangeorge4541" id="212" weight="1" />
+      <edge source="BJP" target="User_@Priyanka4002" id="213" weight="1" />
+      <edge source="BJP" target="User_@AKDY23" id="214" weight="1" />
+      <edge source="User_@adyarrajj285" target="DMK" id="215" weight="5" />
+      <edge source="DMK" target="User_@vengeance710x" id="216" weight="2" />
+      <edge source="DMK" target="User_@SenthilKumar-pb3nu" id="217" weight="4" />
+      <edge source="DMK" target="User_@ramsekar56" id="218" weight="1" />
+      <edge source="DMK" target="User_@vishnudevdevan8701" id="219" weight="3" />
+      <edge source="DMK" target="User_@Jump_jilani" id="220" weight="1" />
+      <edge source="DMK" target="User_@krishk8105" id="221" weight="2" />
+      <edge source="DMK" target="User_@rajkumaripaul710" id="222" weight="1" />
+      <edge source="DMK" target="User_@sunderrajen9505" id="223" weight="2" />
+      <edge source="DMK" target="User_@sais7835" id="224" weight="2" />
+      <edge source="DMK" target="User_@samjebasheela1351" id="225" weight="1" />
+      <edge source="DMK" target="User_@T.Ponmudi-i4v" id="226" weight="3" />
+      <edge source="DMK" target="User_@Bharat-Growth" id="227" weight="2" />
+      <edge source="DMK" target="User_@anandgupta1989" id="228" weight="1" />
+      <edge source="DMK" target="User_@KumbaJacks" id="229" weight="1" />
+      <edge source="DMK" target="User_@Motor_ssr" id="230" weight="1" />
+      <edge source="DMK" target="User_@sainagarajanmm3083" id="231" weight="1" />
+      <edge source="DMK" target="User_@pappudai" id="232" weight="1" />
+      <edge source="DMK" target="User_@shankaralfassa" id="233" weight="2" />
+      <edge source="DMK" target="User_@zahir2907" id="234" weight="1" />
+      <edge source="DMK" target="User_@theinnervoice1996" id="235" weight="1" />
+      <edge source="DMK" target="User_@NARUTO-sy9hy" id="236" weight="1" />
+      <edge source="DMK" target="User_@SayyadIbrahim-y5s" id="237" weight="3" />
+      <edge source="DMK" target="User_@TheYoga1212" id="238" weight="2" />
+      <edge source="DMK" target="User_@pkdudeutube" id="239" weight="2" />
+      <edge source="DMK" target="User_@DeepakK-qg7ms" id="240" weight="2" />
+      <edge source="DMK" target="User_@georgejacob4327" id="241" weight="4" />
+      <edge source="DMK" target="User_@PanneerSelvam-eh6dc" id="242" weight="4" />
+      <edge source="DMK" target="User_@StarfishAcademy-z6o" id="243" weight="4" />
+      <edge source="DMK" target="User_@chandravadanankannappan2149" id="244" weight="2" />
+      <edge source="DMK" target="User_@NagarajanKris" id="245" weight="4" />
+      <edge source="DMK" target="User_@visuvalingamkaruppiah8970" id="246" weight="3" />
+      <edge source="DMK" target="User_@zyx_cba123" id="247" weight="1" />
+      <edge source="DMK" target="User_@kamalsiva3090" id="248" weight="4" />
+      <edge source="DMK" target="User_@analyca2011" id="249" weight="2" />
+      <edge source="DMK" target="User_@bamux7" id="250" weight="3" />
+      <edge source="DMK" target="User_@tharajonita8676" id="251" weight="1" />
+      <edge source="DMK" target="User_@cinipolitics360" id="252" weight="1" />
+      <edge source="DMK" target="User_@Vijay-e5q5j" id="253" weight="1" />
+      <edge source="DMK" target="User_@rajhselvapathi6310" id="254" weight="2" />
+      <edge source="DMK" target="User_@RecycleYourLife-du5xu" id="255" weight="1" />
+      <edge source="DMK" target="User_@jayasangarnarayanan8743" id="256" weight="1" />
+      <edge source="DMK" target="User_@darshanselvam554" id="257" weight="1" />
+      <edge source="DMK" target="User_@Karthick-bq3xb" id="258" weight="1" />
+      <edge source="DMK" target="User_@suganpal1142" id="259" weight="2" />
+      <edge source="DMK" target="User_@lakshmanankrish1017" id="260" weight="3" />
+      <edge source="DMK" target="User_@senthamaraikannan1771" id="261" weight="4" />
+      <edge source="DMK" target="User_@sunderk71" id="262" weight="1" />
+      <edge source="DMK" target="User_@premarajendharan5157" id="263" weight="4" />
+      <edge source="DMK" target="User_@ashvinikumarv3839" id="264" weight="1" />
+      <edge source="DMK" target="User_@mook8755" id="265" weight="1" />
+      <edge source="DMK" target="User_@JameelAhmed-m5b" id="266" weight="3" />
+      <edge source="DMK" target="User_@VI-G1G" id="267" weight="1" />
+      <edge source="DMK" target="User_@kamalravindradas2702" id="268" weight="1" />
+      <edge source="DMK" target="User_@venkataramananrengan1913" id="269" weight="2" />
+      <edge source="DMK" target="User_@naaganthinai4059" id="270" weight="3" />
+      <edge source="DMK" target="User_@radhakrishnan9222" id="271" weight="3" />
+      <edge source="DMK" target="User_@Hariharan.vigraman" id="272" weight="2" />
+      <edge source="DMK" target="User_@bestvalueshanu" id="273" weight="2" />
+      <edge source="DMK" target="User_@manojkumarpalani8680" id="274" weight="1" />
+      <edge source="DMK" target="User_@madhavk79" id="275" weight="1" />
+      <edge source="DMK" target="User_@SKumar-kp7fq" id="276" weight="2" />
+      <edge source="DMK" target="User_@saran.seenivasan" id="277" weight="2" />
+      <edge source="DMK" target="User_@ramalingareddypothapu2011" id="278" weight="3" />
+      <edge source="DMK" target="User_@haranathg532" id="279" weight="1" />
+      <edge source="DMK" target="User_@babualagar7838" id="280" weight="1" />
+      <edge source="DMK" target="User_@SureshRajammal" id="281" weight="1" />
+      <edge source="DMK" target="User_@kailashkataria4192" id="282" weight="1" />
+      <edge source="DMK" target="User_@Devjade1103" id="283" weight="4" />
+      <edge source="DMK" target="User_@kummaragurrub9131" id="284" weight="1" />
+      <edge source="DMK" target="User_@kumar67117" id="285" weight="3" />
+      <edge source="DMK" target="User_@thavamt1776" id="286" weight="3" />
+      <edge source="DMK" target="User_@sridharsundar100" id="287" weight="4" />
+      <edge source="DMK" target="User_@aaronshan8956" id="288" weight="3" />
+      <edge source="DMK" target="User_@niranjanaravikumar5080" id="289" weight="2" />
+      <edge source="DMK" target="User_@gabrielemmanuel36" id="290" weight="2" />
+      <edge source="DMK" target="User_@RajathiKumari" id="291" weight="1" />
+      <edge source="DMK" target="User_@kumarsubramanian6281" id="292" weight="1" />
+      <edge source="DMK" target="User_@Ganesan4510" id="293" weight="7" />
+      <edge source="DMK" target="User_@shivnaryan9620" id="294" weight="1" />
+      <edge source="DMK" target="User_@happyfarmer6930" id="295" weight="1" />
+      <edge source="DMK" target="User_@satheeshkumarbalakrishnan4289" id="296" weight="2" />
+      <edge source="DMK" target="User_@radhakrishnan-pg2xh" id="297" weight="2" />
+      <edge source="DMK" target="User_@AnthonyRaj-e5v" id="298" weight="1" />
+      <edge source="DMK" target="User_@masterdisckox6282" id="299" weight="1" />
+      <edge source="DMK" target="User_@sami44566" id="300" weight="1" />
+      <edge source="DMK" target="User_@AustinGiltus" id="301" weight="1" />
+      <edge source="DMK" target="User_@jothimsw" id="302" weight="4" />
+      <edge source="DMK" target="User_@Dr.JYOTHISURIYA." id="303" weight="2" />
+      <edge source="DMK" target="User_@yuvarajsrinivasan6870" id="304" weight="2" />
+      <edge source="DMK" target="User_@jalaramaiah-nx7it" id="305" weight="1" />
+      <edge source="DMK" target="User_@prabuananthr3896" id="306" weight="1" />
+      <edge source="DMK" target="User_@ravichandransubramaniam6169" id="307" weight="1" />
+      <edge source="DMK" target="User_@subbayyaPillai-v6w" id="308" weight="1" />
+      <edge source="DMK" target="User_@krishnaprasad4629" id="309" weight="2" />
+      <edge source="DMK" target="User_@georgethomas8464" id="310" weight="1" />
+      <edge source="DMK" target="User_@supermarinespitfire330" id="311" weight="1" />
+      <edge source="DMK" target="User_@Ponniah07" id="312" weight="1" />
+      <edge source="DMK" target="User_@anbalaganr.2168" id="313" weight="1" />
+      <edge source="DMK" target="User_@sundheepdevarajan1056" id="314" weight="1" />
+      <edge source="DMK" target="User_@coffeebreak1918" id="315" weight="2" />
+      <edge source="DMK" target="User_@TKVLOGS-fr8zl" id="316" weight="1" />
+      <edge source="DMK" target="User_@mohank.m2424" id="317" weight="2" />
+      <edge source="DMK" target="User_@elavarasik6290" id="318" weight="2" />
+      <edge source="DMK" target="User_@sanjaygadhalay1523" id="319" weight="1" />
+      <edge source="DMK" target="User_@agpalani5038" id="320" weight="1" />
+      <edge source="DMK" target="User_@hemalathagunasekaran1034" id="321" weight="1" />
+      <edge source="DMK" target="User_@mks2942" id="322" weight="7" />
+      <edge source="DMK" target="User_@Multivercell" id="323" weight="1" />
+      <edge source="DMK" target="User_@rajangeorge4541" id="324" weight="1" />
+      <edge source="DMK" target="User_@Priyanka4002" id="325" weight="1" />
+      <edge source="DMK" target="User_@SayTruthOnly-3" id="326" weight="1" />
+      <edge source="DMK" target="User_@khoushiksridar1900" id="327" weight="1" />
+      <edge source="DMK" target="User_@AKDY23" id="328" weight="1" />
+      <edge source="User_@JaiBarath108" target="AMMK" id="329" weight="1" />
+      <edge source="User_@JaiBarath108" target="PMK" id="330" weight="1" />
+      <edge source="AMMK" target="User_@sunlotusexports5515" id="331" weight="1" />
+      <edge source="AMMK" target="User_@prabuananthr3896" id="332" weight="1" />
+      <edge source="PMK" target="User_@Vijay-e5q5j" id="333" weight="1" />
+      <edge source="PMK" target="User_@Rock-ow2tl" id="334" weight="1" />
+      <edge source="PMK" target="User_@sunderk71" id="335" weight="1" />
+      <edge source="PMK" target="User_@manojkumarpalani8680" id="336" weight="1" />
+      <edge source="PMK" target="User_@prabuananthr3896" id="337" weight="1" />
+      <edge source="PMK" target="User_@ravichandransubramaniam6169" id="338" weight="1" />
+      <edge source="PMK" target="User_@rajangeorge4541" id="339" weight="1" />
+      <edge source="PMK" target="User_@khoushiksridar1900" id="340" weight="1" />
+      <edge source="User_@ramsekar56" target="AIADMK" id="341" weight="1" />
+      <edge source="AIADMK" target="User_@krishk8105" id="342" weight="1" />
+      <edge source="AIADMK" target="User_@DeepakK-qg7ms" id="343" weight="2" />
+      <edge source="AIADMK" target="User_@sharathsb423" id="344" weight="1" />
+      <edge source="AIADMK" target="User_@anandgupta1989" id="345" weight="1" />
+      <edge source="AIADMK" target="User_@Motor_ssr" id="346" weight="1" />
+      <edge source="AIADMK" target="User_@pappudai" id="347" weight="1" />
+      <edge source="AIADMK" target="User_@theinnervoice1996" id="348" weight="1" />
+      <edge source="AIADMK" target="User_@NARUTO-sy9hy" id="349" weight="1" />
+      <edge source="AIADMK" target="User_@georgejacob4327" id="350" weight="1" />
+      <edge source="AIADMK" target="User_@rajhselvapathi6310" id="351" weight="2" />
+      <edge source="AIADMK" target="User_@jayasangarnarayanan8743" id="352" weight="1" />
+      <edge source="AIADMK" target="User_@Karthick-bq3xb" id="353" weight="1" />
+      <edge source="AIADMK" target="User_@ashvinikumarv3839" id="354" weight="1" />
+      <edge source="AIADMK" target="User_@kailashkataria4192" id="355" weight="1" />
+      <edge source="AIADMK" target="User_@kummaragurrub9131" id="356" weight="1" />
+      <edge source="AIADMK" target="User_@kumarsubramanian6281" id="357" weight="1" />
+      <edge source="AIADMK" target="User_@shivnaryan9620" id="358" weight="1" />
+      <edge source="AIADMK" target="User_@KumbaJacks" id="359" weight="6" />
+      <edge source="AIADMK" target="User_@supermarinespitfire330" id="360" weight="2" />
+      <edge source="AIADMK" target="User_@PrasannaKumar-cw5be" id="361" weight="1" />
+      <edge source="AIADMK" target="User_@georgethomas8464" id="362" weight="1" />
+      <edge source="AIADMK" target="User_@Ponniah07" id="363" weight="1" />
+      <edge source="AIADMK" target="User_@anbalaganr.2168" id="364" weight="1" />
+      <edge source="AIADMK" target="User_@coffeebreak1918" id="365" weight="1" />
+      <edge source="AIADMK" target="User_@Priyanka4002" id="366" weight="1" />
+      <edge source="AIADMK" target="User_@AKDY23" id="367" weight="1" />
+      <edge source="User_@PrabhuK12345" target="INC" id="368" weight="1" />
+      <edge source="User_@babualagar7838" target="CPM" id="369" weight="1" />
+      <edge source="User_@babualagar7838" target="VCK" id="370" weight="1" />
+      <edge source="User_@babualagar7838" target="CPI" id="371" weight="1" />
+      <edge source="VCK" target="User_@anandgupta1989" id="372" weight="1" />
+      <edge source="VCK" target="User_@Bharat-Growth" id="373" weight="1" />
+      <edge source="VCK" target="User_@Vijay-e5q5j" id="374" weight="1" />
+      <edge source="VCK" target="User_@Rock-ow2tl" id="375" weight="1" />
+      <edge source="VCK" target="User_@sunderk71" id="376" weight="1" />
+      <edge source="VCK" target="User_@manojkumarpalani8680" id="377" weight="1" />
+      <edge source="VCK" target="User_@agpalani5038" id="378" weight="1" />
+      <edge source="VCK" target="User_@hemalathagunasekaran1034" id="379" weight="2" />
+      <edge source="User_@kumarsubramanian6281" target="DMDK" id="380" weight="1" />
+      <edge source="DMDK" target="User_@Multivercell" id="381" weight="1" />
+    </edges>
+  </graph>
+</gexf>

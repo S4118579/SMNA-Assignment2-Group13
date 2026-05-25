@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-05-22">
+    <creator>NetworkX 3.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." label="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." />
+      <node id="TVK" label="TVK" />
+      <node id="NTK" label="NTK" />
+      <node id="BJP" label="BJP" />
+      <node id="DMK" label="DMK" />
+      <node id="AIADMK" label="AIADMK" />
+      <node id="AMMK" label="AMMK" />
+      <node id="PMK" label="PMK" />
+      <node id="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." label="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." />
+      <node id="Anand Mahindra Praises CM Vijay After Viral Bolero Drive | T..." label="Anand Mahindra Praises CM Vijay After Viral Bolero Drive | T..." />
+      <node id="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." label="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." />
+      <node id="VCK" label="VCK" />
+      <node id="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." label="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." />
+      <node id="DMDK" label="DMDK" />
+      <node id="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." label="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." />
+      <node id="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." label="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." />
+      <node id="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." label="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." />
+      <node id="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." label="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." />
+      <node id="Tamil Nadu 2026: Who Sets The Narrative?..." label="Tamil Nadu 2026: Who Sets The Narrative?..." />
+      <node id="Tamil Nadu Polls 2026 | Udhayanidhi Stalin Reignites Hindi I..." label="Tamil Nadu Polls 2026 | Udhayanidhi Stalin Reignites Hindi I..." />
+      <node id="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." label="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." />
+      <node id="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." label="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." />
+      <node id="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." label="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." />
+      <node id="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." label="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." />
+      <node id="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." label="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." />
+      <node id="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." label="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." />
+      <node id="DMK vs TVK🔥 #malik #election #dmk #tvk..." label="DMK vs TVK🔥 #malik #election #dmk #tvk..." />
+      <node id="Tamilnadu Election results 😂🔥 | TVK VS DMK #tvk #dmk #mkstal..." label="Tamilnadu Election results 😂🔥 | TVK VS DMK #tvk #dmk #mkstal..." />
+      <node id="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." label="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." />
+    </nodes>
+    <edges>
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="TVK" id="0" weight="22" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="NTK" id="1" weight="19" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="BJP" id="2" weight="5" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="DMK" id="3" weight="23" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="AIADMK" id="4" weight="4" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="AMMK" id="5" weight="1" />
+      <edge source="Tamil Nadu Elections 2026: Chennai Strongholds, Kongu Belt &amp;..." target="PMK" id="6" weight="1" />
+      <edge source="TVK" target="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." id="7" weight="33" />
+      <edge source="TVK" target="Anand Mahindra Praises CM Vijay After Viral Bolero Drive | T..." id="8" weight="76" />
+      <edge source="TVK" target="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." id="9" weight="36" />
+      <edge source="TVK" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="10" weight="26" />
+      <edge source="TVK" target="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." id="11" weight="68" />
+      <edge source="TVK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="12" weight="34" />
+      <edge source="TVK" target="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." id="13" weight="42" />
+      <edge source="TVK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="14" weight="45" />
+      <edge source="TVK" target="Tamil Nadu 2026: Who Sets The Narrative?..." id="15" weight="2" />
+      <edge source="TVK" target="Tamil Nadu Polls 2026 | Udhayanidhi Stalin Reignites Hindi I..." id="16" weight="2" />
+      <edge source="TVK" target="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." id="17" weight="12" />
+      <edge source="TVK" target="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." id="18" weight="44" />
+      <edge source="TVK" target="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." id="19" weight="31" />
+      <edge source="TVK" target="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." id="20" weight="29" />
+      <edge source="TVK" target="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." id="21" weight="47" />
+      <edge source="TVK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="22" weight="15" />
+      <edge source="TVK" target="DMK vs TVK🔥 #malik #election #dmk #tvk..." id="23" weight="69" />
+      <edge source="TVK" target="Tamilnadu Election results 😂🔥 | TVK VS DMK #tvk #dmk #mkstal..." id="24" weight="8" />
+      <edge source="TVK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="25" weight="10" />
+      <edge source="NTK" target="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." id="26" weight="1" />
+      <edge source="NTK" target="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." id="27" weight="2" />
+      <edge source="NTK" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="28" weight="1" />
+      <edge source="NTK" target="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." id="29" weight="1" />
+      <edge source="NTK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="30" weight="4" />
+      <edge source="NTK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="31" weight="7" />
+      <edge source="NTK" target="Tamil Nadu 2026: Who Sets The Narrative?..." id="32" weight="5" />
+      <edge source="NTK" target="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." id="33" weight="38" />
+      <edge source="NTK" target="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." id="34" weight="4" />
+      <edge source="NTK" target="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." id="35" weight="7" />
+      <edge source="NTK" target="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." id="36" weight="7" />
+      <edge source="NTK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="37" weight="4" />
+      <edge source="NTK" target="DMK vs TVK🔥 #malik #election #dmk #tvk..." id="38" weight="4" />
+      <edge source="NTK" target="Tamilnadu Election results 😂🔥 | TVK VS DMK #tvk #dmk #mkstal..." id="39" weight="49" />
+      <edge source="NTK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="40" weight="46" />
+      <edge source="BJP" target="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." id="41" weight="7" />
+      <edge source="BJP" target="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." id="42" weight="3" />
+      <edge source="BJP" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="43" weight="16" />
+      <edge source="BJP" target="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." id="44" weight="1" />
+      <edge source="BJP" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="45" weight="3" />
+      <edge source="BJP" target="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." id="46" weight="6" />
+      <edge source="BJP" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="47" weight="14" />
+      <edge source="BJP" target="Tamil Nadu 2026: Who Sets The Narrative?..." id="48" weight="13" />
+      <edge source="BJP" target="Tamil Nadu Polls 2026 | Udhayanidhi Stalin Reignites Hindi I..." id="49" weight="27" />
+      <edge source="BJP" target="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." id="50" weight="9" />
+      <edge source="BJP" target="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." id="51" weight="5" />
+      <edge source="BJP" target="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." id="52" weight="5" />
+      <edge source="BJP" target="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." id="53" weight="4" />
+      <edge source="BJP" target="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." id="54" weight="3" />
+      <edge source="BJP" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="55" weight="9" />
+      <edge source="BJP" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="56" weight="10" />
+      <edge source="DMK" target="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." id="57" weight="15" />
+      <edge source="DMK" target="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." id="58" weight="11" />
+      <edge source="DMK" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="59" weight="29" />
+      <edge source="DMK" target="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." id="60" weight="7" />
+      <edge source="DMK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="61" weight="22" />
+      <edge source="DMK" target="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." id="62" weight="12" />
+      <edge source="DMK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="63" weight="36" />
+      <edge source="DMK" target="Tamil Nadu 2026: Who Sets The Narrative?..." id="64" weight="29" />
+      <edge source="DMK" target="Tamil Nadu Polls 2026 | Udhayanidhi Stalin Reignites Hindi I..." id="65" weight="27" />
+      <edge source="DMK" target="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." id="66" weight="16" />
+      <edge source="DMK" target="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." id="67" weight="26" />
+      <edge source="DMK" target="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." id="68" weight="26" />
+      <edge source="DMK" target="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." id="69" weight="21" />
+      <edge source="DMK" target="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." id="70" weight="17" />
+      <edge source="DMK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="71" weight="32" />
+      <edge source="DMK" target="DMK vs TVK🔥 #malik #election #dmk #tvk..." id="72" weight="20" />
+      <edge source="DMK" target="Tamilnadu Election results 😂🔥 | TVK VS DMK #tvk #dmk #mkstal..." id="73" weight="1" />
+      <edge source="DMK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="74" weight="20" />
+      <edge source="AIADMK" target="Tamil Nadu Elections 2026: Actor to Politician- Vijay’s High..." id="75" weight="3" />
+      <edge source="AIADMK" target="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." id="76" weight="3" />
+      <edge source="AIADMK" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="77" weight="1" />
+      <edge source="AIADMK" target="TVK ELECTION CAMPAIGN SONG - உங்க விஜய் நா வரேன்! Whistle அட..." id="78" weight="1" />
+      <edge source="AIADMK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="79" weight="1" />
+      <edge source="AIADMK" target="Exit Polls Of Tamil Nadu | TVK To Win 98 To 120 Of TN&amp;#39;s ..." id="80" weight="1" />
+      <edge source="AIADMK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="81" weight="3" />
+      <edge source="AIADMK" target="Tamil Nadu 2026: Who Sets The Narrative?..." id="82" weight="2" />
+      <edge source="AIADMK" target="Tamil Nadu Rountable: Who Will Win 2026 Polls? | Tamil Nadu ..." id="83" weight="2" />
+      <edge source="AIADMK" target="Tamil Nadu Elections 2026 | Tamil Nadu Exit Poll 2026 | Axis..." id="84" weight="1" />
+      <edge source="AIADMK" target="Tamil Nadu Elections 2026: Three-Way Battle Shoots Up As Agr..." id="85" weight="2" />
+      <edge source="AIADMK" target="The Vijay Factor: Spoiler Or Game-changer? | Tamil Nadu Elec..." id="86" weight="7" />
+      <edge source="AIADMK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="87" weight="4" />
+      <edge source="AIADMK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="88" weight="2" />
+      <edge source="AMMK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="89" weight="1" />
+      <edge source="PMK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="90" weight="1" />
+      <edge source="PMK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="91" weight="1" />
+      <edge source="PMK" target="Democratic Newsroom: Will Actor Vijay Be The Kingmaker In Ta..." id="92" weight="1" />
+      <edge source="PMK" target="Is Tamil Nadu 2026 the BIGGEST Game Changer in Indian Politi..." id="93" weight="2" />
+      <edge source="PMK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="94" weight="2" />
+      <edge source="TN Elections 2026: Can Vijay’s Party Win Tamil Nadu? Full An..." target="VCK" id="95" weight="1" />
+      <edge source="VCK" target="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." id="96" weight="1" />
+      <edge source="VCK" target="Tamil Nadu 2026: Pramod Madhav Analyzes Vijay’s Vote Share A..." id="97" weight="1" />
+      <edge source="VCK" target="TVK Internal Survey Claims 30% Vote Share In 2026 TN Polls; ..." id="98" weight="1" />
+      <edge source="Tamil Nadu Exit Polls 2026: DMK Edge, AIADMK Fightback And V..." target="DMDK" id="99" weight="1" />
+      <edge source="DMDK" target="Tamil Nadu: Who’s winning this election? | Let Me Explain 13..." id="100" weight="1" />
+    </edges>
+  </graph>
+</gexf>
